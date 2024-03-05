@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "65e5adab864653e6fa255e86"
+  },
+  "FirstName": "Niar",
+  "LastName": "May",
+  "RegistrationNo": "J23/2345/2022",
+  "HostelName": "Nyayo",
+  "RoomType": "Quad",
+  "RoomNo": 132
+},
+{
+  "_id": {
+    "$oid": "65e5af05864653e6fa255e87"
+  },
+  "FirstName": "Sandra",
+  "LastName": "Elsie",
+  "RegistrationNo": "H23/2456/2021",
+  "HostelName": "Ngong",
+  "RoomType": "Double",
+  "RoomNo": 1
+},
+{
+  "_id": {
+    "$oid": "65e5af05864653e6fa255e88"
+  },
+  "FirstName": "Zoe",
+  "LastName": "Tando",
+  "HostelName": "Suswa",
+  "RegistrationNo": "E16/2367/2023",
+  "RoomNo": 45,
+  "RoomType": "Double"
+},
+{
+  "_id": {
+    "$oid": "65e5af05864653e6fa255e89"
+  },
+  "FirstName": "Jones",
+  "LastName": "Lando",
+  "HostelName": "Nyayo",
+  "RegistrationNo": "D35/2789/2019",
+  "RoomNo": 56,
+  "RoomType": "Quad"
+},
+{
+  "_id": {
+    "$oid": "65e5d0eed3e675abe0a14fac"
+  },
+  "FirstName": "Muthoni",
+  "LastName": "Lasoi",
+  "HostelName": "Aberdare",
+  "RegistrationNo": "S14/9876/2021",
+  "RoomNo": 167,
+  "RoomType": "Double"
+}]
